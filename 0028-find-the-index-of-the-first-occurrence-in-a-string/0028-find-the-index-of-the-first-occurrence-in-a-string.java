@@ -1,7 +1,21 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        int index = haystack.indexOf(needle);
+        // int index = haystack.indexOf(needle);
 
-        return index;
+        // return index;
+
+        for (int i = 0; i <= haystack.length() - needle.length(); i++) {
+            int j = 0;
+
+            while (j < needle.length() && haystack.charAt(i + j) == needle.charAt(j)) {
+
+                j++;
+            }
+
+            if(j==needle.length()){
+                return i;
+            }
+        }
+        return -1;
     }
 }

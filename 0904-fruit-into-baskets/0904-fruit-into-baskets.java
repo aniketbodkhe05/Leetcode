@@ -16,6 +16,28 @@ class Solution {
         // }
         // return maxlength;
 
+        // int maxlength = 0;
+        // int l = 0;
+        // int r = 0;
+        // Map<Integer, Integer> mp = new HashMap<>();
+        // while (r < fruits.length) {
+        //     mp.put(fruits[r], mp.getOrDefault(fruits[r], 0) + 1);
+
+        //     if (mp.size() > 2) {
+        //         while (mp.size() > 2) {
+        //             mp.put(fruits[l], mp.get(fruits[l]) - 1);
+        //             if (mp.get(fruits[l]) == 0) {
+        //                 mp.remove(fruits[l]);
+        //             }
+        //             l++;
+        //         }
+
+        //     }
+        //     maxlength = Math.max(maxlength, r - l + 1);
+        //     r++;
+
+        // }
+        // return maxlength;
         int maxlength = 0;
         int l = 0;
         int r = 0;
@@ -23,18 +45,18 @@ class Solution {
         while (r < fruits.length) {
             mp.put(fruits[r], mp.getOrDefault(fruits[r], 0) + 1);
 
-            if (mp.size() > 2) {
-                while (mp.size() > 2) {
-                    mp.put(fruits[l], mp.get(fruits[l]) - 1);
-                    if (mp.get(fruits[l]) == 0) {
-                        mp.remove(fruits[l]);
-                    }
-                    l++;
-                }
-                
+            while (mp.size() > 2) {
+                mp.put(fruits[l], mp.get(fruits[l]) - 1);
 
+                if (mp.get(fruits[l]) == 0) {
+                    mp.remove(fruits[l]);
+                }
+
+                l++;
             }
-            maxlength = Math.max(maxlength, r - l + 1);
+            if (mp.size() <= 2) {
+                maxlength = Math.max(maxlength, r - l + 1);
+            }
             r++;
 
         }

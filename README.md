@@ -38,12 +38,14 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketbodkhe05/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/aniketbodkhe05/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aniketbodkhe05/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aniketbodkhe05/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aniketbodkhe05/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/aniketbodkhe05/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aniketbodkhe05/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aniketbodkhe05/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +54,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/aniketbodkhe05/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aniketbodkhe05/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->

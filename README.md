@@ -12,6 +12,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aniketbodkhe05/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0076-minimum-window-substring](https://github.com/aniketbodkhe05/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/aniketbodkhe05/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/aniketbodkhe05/Leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -15,19 +15,19 @@ class Solution {
         if (s.length() == 2) {
             return -1;
         }
-       if (s.charAt(left) == minChar ||
-    s.charAt(right) == maxChar) {
-    return 1;
-}
+        if (s.charAt(left) == minChar ||
+                s.charAt(right) == maxChar) {
+            return 1;
+        }
 
-for (int i = 1; i < right; i++) {
-    if (s.charAt(i) == minChar ||
-        s.charAt(i) == maxChar) {
-        return 2;
-    }
-}
+        for (int i = 1; i < right; i++) {
+            if (s.charAt(i) == minChar ||
+                    s.charAt(i) == maxChar) {
+                return 2;
+            }
+        }
 
-return 3;
+        return 3;
 
     }
 }

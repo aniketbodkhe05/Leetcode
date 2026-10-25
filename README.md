@@ -57,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aniketbodkhe05/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0054-spiral-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/aniketbodkhe05/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/aniketbodkhe05/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aniketbodkhe05/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -85,4 +86,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniketbodkhe05/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->

@@ -7,7 +7,7 @@ class Solution {
         int l = 0;
         int r = 0;
         int oddcount = 0;
-        int originalsubarrcount = 0;
+        int original = 0;
 
         while (r < nums.length) {
             if (oddcount < 0) {
@@ -19,14 +19,14 @@ class Solution {
             while (oddcount > k) {
                 if (nums[l] % 2 != 0) {
                     oddcount--;
+
                 }
                 l = l + 1;
+
             }
-
-            originalsubarrcount += r - l + 1;
-
+            original += r - l + 1;
             r++;
         }
-        return originalsubarrcount;
+        return original;
     }
 }

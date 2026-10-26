@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aniketbodkhe05/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0075-sort-colors](https://github.com/aniketbodkhe05/Leetcode/tree/main/0075-sort-colors/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aniketbodkhe05/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0054-spiral-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/aniketbodkhe05/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/aniketbodkhe05/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/aniketbodkhe05/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aniketbodkhe05/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -81,6 +83,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/aniketbodkhe05/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aniketbodkhe05/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -94,4 +97,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/aniketbodkhe05/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/aniketbodkhe05/Leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->

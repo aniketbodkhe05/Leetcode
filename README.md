@@ -59,6 +59,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aniketbodkhe05/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0054-spiral-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/aniketbodkhe05/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/aniketbodkhe05/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/aniketbodkhe05/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -70,6 +71,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aniketbodkhe05/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aniketbodkhe05/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aniketbodkhe05/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -93,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

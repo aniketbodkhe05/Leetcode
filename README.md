@@ -61,6 +61,7 @@
 | [0054-spiral-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/aniketbodkhe05/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0867-transpose-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/aniketbodkhe05/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/aniketbodkhe05/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aniketbodkhe05/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -96,10 +97,12 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0867-transpose-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0867-transpose-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |

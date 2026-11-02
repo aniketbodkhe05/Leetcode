@@ -97,6 +97,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/aniketbodkhe05/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniketbodkhe05/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |

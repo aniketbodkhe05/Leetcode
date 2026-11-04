@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aniketbodkhe05/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/aniketbodkhe05/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/aniketbodkhe05/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/aniketbodkhe05/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -15,6 +16,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aniketbodkhe05/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/aniketbodkhe05/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0076-minimum-window-substring](https://github.com/aniketbodkhe05/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0125-valid-palindrome](https://github.com/aniketbodkhe05/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/aniketbodkhe05/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aniketbodkhe05/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aniketbodkhe05/Leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |

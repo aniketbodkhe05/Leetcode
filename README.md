@@ -42,6 +42,7 @@
 | [0001-two-sum](https://github.com/aniketbodkhe05/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketbodkhe05/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/aniketbodkhe05/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0169-majority-element](https://github.com/aniketbodkhe05/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/aniketbodkhe05/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/aniketbodkhe05/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/aniketbodkhe05/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -69,6 +70,7 @@
 | [0075-sort-colors](https://github.com/aniketbodkhe05/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/aniketbodkhe05/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/aniketbodkhe05/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0169-majority-element](https://github.com/aniketbodkhe05/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0867-transpose-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/aniketbodkhe05/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/aniketbodkhe05/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -97,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/aniketbodkhe05/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/aniketbodkhe05/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aniketbodkhe05/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -147,4 +150,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/aniketbodkhe05/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/aniketbodkhe05/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/aniketbodkhe05/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/aniketbodkhe05/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aniketbodkhe05/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/aniketbodkhe05/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/aniketbodkhe05/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/aniketbodkhe05/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/aniketbodkhe05/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@
 | [0078-subsets](https://github.com/aniketbodkhe05/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/aniketbodkhe05/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/aniketbodkhe05/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0283-move-zeroes](https://github.com/aniketbodkhe05/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0867-transpose-matrix](https://github.com/aniketbodkhe05/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/aniketbodkhe05/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/aniketbodkhe05/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
